@@ -28,9 +28,9 @@ I am a Data Analyst with 2 years of experience specializing in transforming data
   <tr>
     <td valign="top"><strong>Analysis Tools</strong></td>
     <td valign="top">
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/></a>
-      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="powerbi" width="40" height="40"/></a>
-      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/></a>
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KhaledAboel3tta/KhaledAboel3tta/refs/heads/main/assets/excel.svg" alt="excel" width="40" height="40"/></a>
+      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KhaledAboel3tta/KhaledAboel3tta/refs/heads/main/assets/power-bi.svg" alt="powerbi" width="40" height="40"/></a>
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KhaledAboel3tta/KhaledAboel3tta/refs/heads/main/assets/tableau.svg" alt="tableau" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
